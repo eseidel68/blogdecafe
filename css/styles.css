@@ -71,3 +71,9 @@ img {
 .centrar-texto {
     text-align: center;
 }
+
+/* Header */
+
+.header {
+    background-image: url(/img/blog1.jpeg);
+}
